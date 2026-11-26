@@ -1,4 +1,4 @@
-# Crypto Terminal
+# My Terminal
 
 A real-time cryptocurrency charting terminal built as a lightweight Progressive Web App.
 

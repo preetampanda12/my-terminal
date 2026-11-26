@@ -1,7 +1,7 @@
 {
-  "name": "crypto-terminal",
+  "name": "my-terminal",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Terminal real-time cryptocurrency charting app",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",

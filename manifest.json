@@ -1,6 +1,6 @@
 {
-  "name": "Pandas Terminal",
-  "short_name": "PandasTerm",
+  "name": "My Terminal",
+  "short_name": "My Terminal",
   "description": "Professional-grade, real-time cryptocurrency charting terminal.",
   "start_url": "./index.html",
   "display": "standalone",

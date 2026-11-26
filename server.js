@@ -29,7 +29,7 @@ for (const asset of ["favicon.svg", "manifest.json", "sw.js"]) {
 }
 
 app.listen(port, host, () => {
-  console.log(`Crypto Terminal listening on port ${port}.`);
+  console.log(`My Terminal listening on port ${port}.`);
   for (const addresses of Object.values(os.networkInterfaces())) {
     for (const address of addresses || []) {
       if (address.family === "IPv4" && !address.internal) {
